@@ -1,5 +1,0 @@
-<lModule mod rewrite.c>
-RewnteEngine on
-RewriteCond %[REQUEST_URI)public
-RewriteRule .")S public/S1 [L]
-</ifModule>
